@@ -7,5 +7,5 @@ Em vez de apenas reutilizar o código original, eu fiz minhas próprias modifica
 Se quiser participar, é só me chamar no Discord: hikilune
 
 ```html
-<iframe width="180" height="180" style="border:none" src="https://lunechan.github.io/navlink/" name="lune"></iframe>
+<iframe width="180" height="180" style="border:none" src="https://hikilune.github.io/navlink/" name="lune"></iframe>
 ```
